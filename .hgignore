@@ -1,0 +1,12 @@
+syntax:glob
+.repl_history
+build
+**/build
+build-iPhone*
+.DS_Store
+nbproject
+.redcar
+#*#
+*~
+*.sw[po]
+.eprj
